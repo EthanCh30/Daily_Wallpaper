@@ -1,2 +1,0 @@
-# MovieReviewWebsite
-Java, React, MongoDB
