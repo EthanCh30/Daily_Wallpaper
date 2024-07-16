@@ -2,6 +2,12 @@
 
 A Daily Wallpaper Site build with React and using NASA API
 
+# UI Overview
+
+Here's a glimpse of the Website, highlighting its features and aesthetics.
+
+![ec0bf3a7564d9b814a19cbf9d0967f8(1)](https://s2.loli.net/2024/07/17/kRSFvaU6NxeIbto.png)
+
 # Technologies Used
 
 The project is built using the following technologies and libraries:
